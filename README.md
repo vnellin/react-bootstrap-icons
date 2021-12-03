@@ -1,3 +1,23 @@
+# Added or updated several icons from v1.7.1
+
+Send
+EnvelopeCheckFill
+EnvelopeCheck
+EnvelopeDashFill
+EnvelopeDash
+EnvelopeExclamationFill
+EnvelopeExclamation
+EnvelopeFill
+EnvelopeOpenFill
+EnvelopeOpen
+Envelope
+EnvelopePlusFill
+EnvelopePlus
+EnvelopeSlashFill
+EnvelopeSlash
+EnvelopeXFill
+EnvelopeX
+
 # React Bootstrap Icons
 
 The brand new [Bootstrap Icons library](https://icons.getbootstrap.com/) to use as React components.
