@@ -1131,6 +1131,7 @@ export { default as SdCardFill } from './icons/sd-card-fill';
 export { default as SdCard } from './icons/sd-card';
 export { default as Search } from './icons/search';
 export { default as SegmentedNav } from './icons/segmented-nav';
+export { default as Send } from './icons/send';
 export { default as Server } from './icons/server';
 export { default as ShareFill } from './icons/share-fill';
 export { default as Share } from './icons/share';
