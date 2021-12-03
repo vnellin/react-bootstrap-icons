@@ -579,6 +579,7 @@ export { default as EnvelopeFill } from './icons/envelope-fill';
 export { default as EnvelopeOpenFill } from './icons/envelope-open-fill';
 export { default as EnvelopeOpen } from './icons/envelope-open';
 export { default as Envelope } from './icons/envelope';
+export { default as EnvelopeDash } from './icons/envelope-dash';
 export { default as EraserFill } from './icons/eraser-fill';
 export { default as Eraser } from './icons/eraser';
 export { default as ExclamationCircleFill } from './icons/exclamation-circle-fill';
