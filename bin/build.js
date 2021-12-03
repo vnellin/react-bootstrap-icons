@@ -34,9 +34,11 @@ fs.writeFileSync(path.join(rootDir, 'src', 'index.js'), '', 'utf-8');
 let n = 0;
 
 fs.readdirSync(iconsDir).forEach((file) => {
+  console.log(`${iconsDir}/${file}`);
   const svg = fs.readFileSync(`${iconsDir}/${file}`, 'utf8');
-  const fileName = file.split('.')[0];
-  const ComponentName = upperCamelCase(fileName);
+  let fileName = file.split('.')[0];
+  let ComponentName = upperCamelCase(fileName);
+  if (ComponentName.match(/^\d/)) ComponentName = 'Icon' + ComponentName ;
   const svgContent = svg.replace(/<svg[^>]*>|<\/svg>/g, '');
 
   const preComponent = `
