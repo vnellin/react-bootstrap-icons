@@ -1,22 +1,12 @@
-# Added or updated several icons from v1.7.1
+# React Bootstrap Icons
 
-Send
-EnvelopeCheckFill
-EnvelopeCheck
-EnvelopeDashFill
-EnvelopeDash
-EnvelopeExclamationFill
-EnvelopeExclamation
-EnvelopeFill
-EnvelopeOpenFill
-EnvelopeOpen
-Envelope
-EnvelopePlusFill
-EnvelopePlus
-EnvelopeSlashFill
-EnvelopeSlash
-EnvelopeXFill
-EnvelopeX
+> Currently v1.7.1, over **1500 icons!**
+
+120 new icons
+This update was a lot of fun for me—drawing all these tiny computer parts most of all! There are dozens of new computer-related icons for parts, ports, and peripheral devices. There are also several new brand icons, including Meta, and some other fun icons like a new robot head and a boombox.
+
+New icons in v1.7.0
+<img src="https://blog.getbootstrap.com/assets/img/2021/11/icons-v170.png">
 
 # React Bootstrap Icons
 
