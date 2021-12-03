@@ -20,6 +20,11 @@ or
 yarn add react-bootstrap-icons
 ```
 
+Then replace react-bootstrap-icons version in your package.json 
+ ```
+ "react-bootstrap-icons": "https://github.com/vnellin/react-bootstrap-icons.git",
+ ```
+
 ## Usage
 
 ```jsx
