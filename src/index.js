@@ -575,11 +575,30 @@ export { default as EmojiSunglassesFill } from './icons/emoji-sunglasses-fill';
 export { default as EmojiSunglasses } from './icons/emoji-sunglasses';
 export { default as EmojiWinkFill } from './icons/emoji-wink-fill';
 export { default as EmojiWink } from './icons/emoji-wink';
+
+export { default as EnvelopeCheckFill } from './icons/envelope-check-fill';
+export { default as EnvelopeCheck } from './icons/envelope-check';
+export { default as EnvelopeDashFill } from './icons/envelope-dash-fill';
+export { default as EnvelopeDash } from './icons/envelope-dash';
+
+export { default as EnvelopeExclamationFill } from './icons/envelope-check-fill';
+export { default as EnvelopeExclamation } from './icons/envelope-exclamation';
+
 export { default as EnvelopeFill } from './icons/envelope-fill';
 export { default as EnvelopeOpenFill } from './icons/envelope-open-fill';
 export { default as EnvelopeOpen } from './icons/envelope-open';
+
+export { default as EnvelopePlusFill } from './icons/envelope-check-fill';
+export { default as EnvelopePlus } from './icons/envelope-check-fill';
+
+export { default as EnvelopeSlashFill } from './icons/envelope-slash-fill';
+export { default as EnvelopeSlash } from './icons/envelope-slash-fill';
+
+export { default as EnvelopeXFill } from './icons/envelope-x-fill';
+export { default as EnvelopeX } from './icons/envelope-x-fill';
+
 export { default as Envelope } from './icons/envelope';
-export { default as EnvelopeDash } from './icons/envelope-dash';
+
 export { default as EraserFill } from './icons/eraser-fill';
 export { default as Eraser } from './icons/eraser';
 export { default as ExclamationCircleFill } from './icons/exclamation-circle-fill';

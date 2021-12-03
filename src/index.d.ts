@@ -1,4 +1,4 @@
-/// <reference types="react" />
+ /// <reference types="react" />
 import { ComponentType, SVGAttributes } from 'react';
 
 interface Props extends SVGAttributes<SVGElement> {
@@ -584,11 +584,24 @@ export const EmojiSunglassesFill: Icon;
 export const EmojiSunglasses: Icon;
 export const EmojiWinkFill: Icon;
 export const EmojiWink: Icon;
+
+export const EnvelopeCheckFill: Icon;
+export const EnvelopeCheck: Icon;
+export const EnvelopeDashFill: Icon;
+export const EnvelopeDash: Icon;
+export const EnvelopeExclamationFill: Icon;
+export const EnvelopeExclamation: Icon;
 export const EnvelopeFill: Icon;
 export const EnvelopeOpenFill: Icon;
 export const EnvelopeOpen: Icon;
 export const Envelope: Icon;
-export const EnvelopeDash: Icon;
+export const EnvelopePlusFill: Icon;
+export const EnvelopePlus: Icon;
+export const EnvelopeSlashFill: Icon;
+export const EnvelopeSlash: Icon;
+export const EnvelopeXFill: Icon;
+export const EnvelopeX: Icon;
+
 export const EraserFill: Icon;
 export const Eraser: Icon;
 export const ExclamationCircleFill: Icon;
